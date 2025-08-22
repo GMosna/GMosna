@@ -14,7 +14,6 @@
 ### 📊 Estatísticas do GitHub
 <div align="center">
   
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMosna&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMosna&layout=compact&theme=radical)
 
 </div>
